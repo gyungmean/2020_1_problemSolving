@@ -1,0 +1,5 @@
+﻿  HW1(틱택토).c
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW1\HW(틱텍토)\HW1(틱택토).c(103,18): warning C4048: 배열 첨자가 다릅니다. 'char (*)[3]'과(와) 'char [5][5]'
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW1\HW(틱텍토)\HW1(틱택토).c(105,15): warning C4048: 배열 첨자가 다릅니다. 'char (*)[3]'과(와) 'char [5][5]'
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW1\HW(틱텍토)\HW1(틱택토).c(107,12): warning C4048: 배열 첨자가 다릅니다. 'char (*)[3]'과(와) 'char [5][5]'
+  HW(틱텍토).vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\LABHW1\Debug\HW(틱텍토).exe

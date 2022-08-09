@@ -1,0 +1,4 @@
+﻿  LAB2_4_3.c
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW2\LAB2_4_3\LAB2_4_3.c(44,13): warning C4133: '함수': 'int [5][70]'과(와) 'char (*)[70]' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW2\LAB2_4_3\LAB2_4_3.c(48,16): warning C4133: '함수': 'int [5][70]'과(와) 'char (*)[70]' 사이의 형식이 호환되지 않습니다.
+  LAB2_4_3.vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\LABHW2\Debug\LAB2_4_3.exe

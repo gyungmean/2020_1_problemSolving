@@ -1,0 +1,3 @@
+﻿  warmingup1.c
+C:\Users\user\source\repos\LABHW0\warmingup1\warmingup1.c(9,23): warning C4013: 'multiTwo'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  warmingup1.vcxproj -> C:\Users\user\source\repos\LABHW0\Debug\warmingup1.exe

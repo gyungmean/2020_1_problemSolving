@@ -1,0 +1,4 @@
+﻿  규칙Q1(How many carry operations).c
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW13\규칙Q1(How many carry operations)\규칙Q1(How many carry operations).c(40,6): warning C4101: 'size1' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW13\규칙Q1(How many carry operations)\규칙Q1(How many carry operations).c(40,13): warning C4101: 'size2' :참조되지 않은 지역 변수입니다.
+  규칙Q1(How many carry operations).vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\LABHW13\Debug\규칙Q1(How many carry operations).exe

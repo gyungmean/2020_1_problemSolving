@@ -1,0 +1,4 @@
+﻿  LAB(1차원동적할당).c
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW3\LAB(1차원동적할당)\LAB(1차원동적할당).c(24,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW3\LAB(1차원동적할당)\LAB(1차원동적할당).c(22,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  LAB(1차원동적할당).vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\LABHW3\Debug\LAB(1차원동적할당).exe

@@ -1,0 +1,5 @@
+﻿  warmingup5.c
+C:\Users\user\source\repos\LABHW0\warmingup5\warmingup5.c(7,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\LABHW0\warmingup5\warmingup5.c(20,12): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+C:\Users\user\source\repos\LABHW0\warmingup5\warmingup5.c(16,6): warning C4101: 'rslt' :참조되지 않은 지역 변수입니다.
+  warmingup5.vcxproj -> C:\Users\user\source\repos\LABHW0\Debug\warmingup5.exe

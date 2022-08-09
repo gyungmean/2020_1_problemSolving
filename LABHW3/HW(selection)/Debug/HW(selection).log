@@ -1,0 +1,4 @@
+﻿  HW(selection).c
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW3\HW(selection)\HW(selection).c(46,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW3\HW(selection)\HW(selection).c(52,35): warning C4133: '=': 'int *'과(와) 'Student *' 사이의 형식이 호환되지 않습니다.
+  HW(selection).vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\LABHW3\Debug\HW(selection).exe

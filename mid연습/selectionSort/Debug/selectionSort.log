@@ -1,0 +1,6 @@
+﻿  selectionSort.c
+C:\Users\user\Desktop\2020-1학기\문해기\mid연습\selectionSort\selectionSort.c(16,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2020-1학기\문해기\mid연습\selectionSort\selectionSort.c(31,25): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\2020-1학기\문해기\mid연습\selectionSort\selectionSort.c(50,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2020-1학기\문해기\mid연습\selectionSort\selectionSort.c(48,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  selectionSort.vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\mid연습\Debug\selectionSort.exe

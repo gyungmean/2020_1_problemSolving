@@ -1,0 +1,4 @@
+﻿  PREP(merge).c
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW4\PREP(merge)\PREP(merge).c(13,8): warning C4013: 'merge'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW4\PREP(merge)\PREP(merge).c(16,6): error C2371: 'merge': 재정의. 기본 형식이 다릅니다.
+C:\Users\user\Desktop\2020-1학기\문해기\LABHW4\PREP(merge)\PREP(merge).c(55,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

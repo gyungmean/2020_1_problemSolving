@@ -1,0 +1,3 @@
+﻿  LAB(뽑기-4진수).c
+C:\Users\user\source\repos\LABHW6\LAB(뽑기-4진수)\LAB(뽑기-4진수).c(8,6): warning C4101: 'chosen' :참조되지 않은 지역 변수입니다.
+  LAB(뽑기-4진수).vcxproj -> C:\Users\user\source\repos\LABHW6\x64\Debug\LAB(뽑기-4진수).exe

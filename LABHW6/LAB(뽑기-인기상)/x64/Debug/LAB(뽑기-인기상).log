@@ -1,0 +1,4 @@
+﻿  LAB(뽑기-인기상).c
+C:\Users\user\source\repos\LABHW6\LAB(뽑기-인기상)\LAB(뽑기-인기상).c(45,16): warning C4047: '함수': 'char (*)[10]'의 간접 참조 수준이 'char **'과(와) 다릅니다.
+C:\Users\user\source\repos\LABHW6\LAB(뽑기-인기상)\LAB(뽑기-인기상).c(45,16): warning C4024: 'pick': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  LAB(뽑기-인기상).vcxproj -> C:\Users\user\source\repos\LABHW6\x64\Debug\LAB(뽑기-인기상).exe

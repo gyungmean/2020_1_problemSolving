@@ -1,0 +1,3 @@
+﻿  개선된bubble.c
+C:\Users\user\Desktop\2020-1학기\문해기\mid연습\bubbleSort\개선된bubble.c(45,13): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  bubbleSort.vcxproj -> C:\Users\user\Desktop\2020-1학기\문해기\mid연습\Debug\bubbleSort.exe
